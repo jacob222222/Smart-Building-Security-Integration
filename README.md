@@ -68,12 +68,12 @@ The goal is to demonstrate programming, commissioning, and integration of IP cam
 
 ---
 
-## Screenshots
+## Screenshots (Coming Soon..)
 
 - BIS dashboard
 - Access logs and alarm events
 
-See the `screenshots/` folder for example visuals.
+See the `screenshots/` 
 
 ---
 
@@ -82,7 +82,7 @@ See the `screenshots/` folder for example visuals.
 - `system-design/` – Visuals of the office layout and network flow
 - `configs/` – Simulated device configuration files
 - `documentation/` – Reports, audit logs, and recommendations
-- `screenshots/` – Simulated BIS environment images
+- `screenshots/` – Simulated BIS environment images (coming soon...)
 
 ---
 
