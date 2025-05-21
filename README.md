@@ -73,7 +73,7 @@ The goal is to demonstrate programming, commissioning, and integration of IP cam
 - BIS dashboard
 - Access logs and alarm events
 
-See the `screenshots/` 
+See the `screenshots/` (coming soon...)
 
 ---
 
@@ -106,7 +106,7 @@ Smart-Building-Security-Integration/
 │   └── README.md
 ├── documentation/
 │   └── README.md
-├── screenshots/
+├── screenshots/ (coming soon...)
 │   └── README.md
 
 ---
